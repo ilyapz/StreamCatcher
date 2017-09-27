@@ -1,7 +1,7 @@
 # StreamCatcher
 .NetCore library to save streams into a file.
 
-You can get the entire source code for adding your own business logic making a donation to my PayPal Account (<ilya_pirozhenko@outlook.com>). Send me a copy of the email message referencing the payment of USD 320 and I'll send you the source code. Feel free to ask for a trial version of the code.
+You can get the entire source code for adding your own business logic making a donation to my PayPal Account (<ilya_pirozhenko@outlook.com>). Send me a copy of the email message referencing the payment of USD 380 and I'll send you the source code. Feel free to ask for a trial version of the code.
 
 Follow the following steps to setup your development/production enviroment and run the library.
 
